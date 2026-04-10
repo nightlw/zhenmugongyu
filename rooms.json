@@ -12,9 +12,7 @@
       "price12m_direct": 2300,
       "image": "https://raw.githubusercontent.com/nightlw/zhenmugongyu/main/images/rooms/301.jpg",
       "imageKey": "south_window",
-      "images": [
-        "https://raw.githubusercontent.com/nightlw/zhenmugongyu/main/images/rooms/301_1.jpg"
-      ]
+      "images": []
     },
     {
       "id": "302",
